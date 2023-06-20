@@ -6,8 +6,11 @@ If I make a mistake or miss some items, I hope you can tell me, and I will corre
 I hope I can get full marks through hard work.
 
 I have uploaded all my completed projects and homework. Below are the urls of my other projects：
-https://github.com/Prouddizzy/HelloWorldGithub.git
-https://github.com/Prouddizzy/pythonFun.git
-https://github.com/Prouddizzy/pandasFun.git
-https://github.com/Prouddizzy/DataVisualizationFun.git
-https://github.com/Prouddizzy/project.git
+[https://github.com/Prouddizzy/HelloWorldGithub.git]
+[https://github.com/Prouddizzy/pythonFun.git]
+[https://github.com/Prouddizzy/pandasFun.git]
+[https://github.com/Prouddizzy/DataVisualizationFun.git]
+[https://github.com/Prouddizzy/project.git]
+
+I feel very lucky to have met Teacher Gina.
+You are a very patient and careful teacher, and you have made me master python and git knowledge well！
